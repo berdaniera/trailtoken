@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="img/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+    <meta
+      name="Trail Token"
+      content="A virtual running community"
+    />
+    <title>Trail Token</title>
+    <style>
+        span {
+            color: #43a047;
+        }
+        /* Green Light scheme (Default) */
+        /* Can be forced with data-theme="light" */
+        [data-theme="light"],
+        :root:not([data-theme="dark"]) {
+          --primary: #43a047;
+          --primary-hover: #388e3c;
+          --primary-focus: rgba(67, 160, 71, 0.125);
+          --primary-inverse: #FFF;
+        }
+
+        /* Green Dark scheme (Auto) */
+        /* Automatically enabled if user has Dark mode enabled */
+        @media only screen and (prefers-color-scheme: dark) {
+          :root:not([data-theme="light"]) {
+            --primary: #43a047;
+            --primary-hover: #4caf50;
+            --primary-focus: rgba(67, 160, 71, 0.25);
+            --primary-inverse: #FFF;
+          }
+        }
+
+        /* Green Dark scheme (Forced) */
+        /* Enabled if forced with data-theme="dark" */
+        [data-theme="dark"] {
+          --primary: #43a047;
+          --primary-hover: #4caf50;
+          --primary-focus: rgba(67, 160, 71, 0.25);
+          --primary-inverse: #FFF;
+        }
+
+        /* Green (Common styles) */
+        :root {
+          --form-element-active-border-color: var(--primary);
+          --form-element-focus-color: var(--primary-focus);
+          --switch-color: var(--primary-inverse);
+          --switch-checked-background-color: var(--primary);
+        }
+
+    </style>
+  </head>
+  <body>
+    <main class="container">
+        <nav>
+          <ul>
+            <li><strong><span>Ŧrail</span> Token</strong></li>
+          </ul>
+          <ul>
+            <li><a href="https://discord.gg/UmF3y7B3d2" role="button">Discord</a></li>
+          </ul>
+        </nav>
+        <div>
+            <center>
+                <hgroup>
+                <h1>Welcome to your virtual running crew</h1>
+                <h1>Trail Token is a web3 movement community that helps you be active</h1>
+                </hgroup>
+                <div><img src="img/undraw_jogging_re_k28i.svg" width='50%'><div>
+            </center>
+            <article>
+                <header><strong>Let's go far together.</strong></header>
+                <img src="img/ttlogo.svg" style="float:right;width:30%;margin-left:3%;margin-top:-10%;">
+                <p>
+                You like moving and being outside. You want to join a supportive run crew to move with like-minded folks and you want technology to enable your experience.
+                </p>
+                <p>
+                We are intentionally inclusive and we welcome runners of all speeds and sizes.
+                We value community over competition and persistence over pace.
+                We believe speed is an individual objective, so we have no leaderboards.
+                If you want to race, look elsewhere.
+                <strong><span>If you want good running vibes, join us.</span></strong>
+                Our trail is open for every runner.
+                </p>
+            </article>
+
+            <article>
+                <header><strong>Built and governed by the community.</strong></header>
+                We're building Trail Token on web3 blocks to empower the community.
+                We have a rough idea of how we think this should work:
+                <ul>
+                <li>It <span>starts</span> with a low-key activity logger (Trail Track) that encourages getting outside regularly. </li>
+                <li>It <span>develops</span> with community-organized NFT events (Trail Tokens) that incentivize collective movement. </li>
+                <li>It <span>grows</span> with IRL events, swag for members, community voice, ... and we need your help to figure out where it goes from there!</li>
+                </ul>
+                <a href="https://discord.gg/UmF3y7B3d2">Join our discord</a> to help us find the trail.
+            </article>
+
+            <article>
+                <header><strong>Trail map</strong></header>
+                <ul>
+                <li>Establish community <span>(now)</span></li>
+                <li>Release Trail Track <span>(next)</span></li>
+                <li>Run virtual Trail Token events <span>(near)</span></li>
+                <li>Give out swag</li>
+                <li>Host IRL events</li>
+                <li>...</li>
+                </ul>
+            </article>
+
+            <article>
+                <header><strong>Team</strong></header>
+                <p>The core team is still coming together... want to contribute? <a href="https://discord.gg/UmF3y7B3d2">Hop in the discord.</a></p>
+                <p>
+                    <img src="img/Delaunayrunner.jpeg" style="float:left;width:20%;margin-right:3%;border-radius: 50%;">
+                    <strong><span>Aaron</span></strong> has been a runner for over 25 years.
+                    They have always found joy in moving outside and they want to share that with other people.
+                    They've been into web3 technology since 2020, when they started experimenting with NFTs and dapps on multiple chains.
+                    You can find them on twitter <a href="https://twitter.com/berdaniera">@berdaniera</a>.
+                </p>
+            </article>
+
+        </div>
+    </main>
+  </body>
+</html>

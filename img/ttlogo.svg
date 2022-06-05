@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg1471"
+   version="1.1"
+   viewBox="0 0 43.994228 50.800045"
+   height="50.800045mm"
+   width="43.994228mm">
+  <defs
+     id="defs1465" />
+  <metadata
+     id="metadata1468">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-24.115974,-77.409527)"
+     id="layer1">
+    <g
+       id="g843"
+       transform="matrix(0.03527778,0,0,-0.03527778,-61.836912,281.91517)"
+       style="fill:#40804b;fill-opacity:1;stroke:none">
+      <path
+         d="m 3683.54,4717.01 -623.54,-360 -623.54,360 v 720 l 623.54,360 623.54,-360 z"
+         style="fill:#40804b;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path845" />
+    </g>
+    <g
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:76.1569;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.66"
+       transform="matrix(0.03324741,0,0,-0.03324741,-55.624001,271.60701)"
+       id="g843-8">
+      <path
+         id="path845-8"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:76.1569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.66"
+         d="m 3683.54,4717.01 -623.54,-360 -623.54,360 v 720 l 623.54,360 623.54,-360 z" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:105.552px;line-height:0.75;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans Semi-Bold';fill:#000000;stroke-width:0.791639"
+       id="text889-8"
+       transform="matrix(0.35277777,0,0,0.35277777,-61.836912,281.91517)"
+       aria-label="T" />
+    <path
+       id="path1005"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:81.3629px;line-height:0.75;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans Semi-Bold';text-align:center;text-anchor:middle;opacity:0.5;fill:#ffffff;stroke-width:0.215274"
+       d="M 54.956645,95.930395 V 98.88759 H 48.00513 v 16.62197 H 44.221038 V 98.88759 h -6.951514 v -2.957195 z m 2.629178,-5.820865 v 3.836366 H 48.567635 V 115.50955 H 43.658538 V 93.945896 H 34.640346 V 90.10953 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.56437px;line-height:0.75;font-family:'Noto Emoji';-inkscape-font-specification:'Noto Emoji';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.298887"
+       x="30.074636"
+       y="102.28904"
+       id="text889"><tspan
+         id="tspan887"
+         x="30.074636"
+         y="102.28904"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.56437px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.298887">TRAIL</tspan><tspan
+         x="30.074636"
+         y="109.81683"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.56437px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.298887"
+         id="tspan848">TOKEN</tspan></text>
+    <text
+       id="text889-9"
+       y="114.90678"
+       x="54.17704"
+       style="font-size:9.56437px;line-height:0.75;font-family:'Noto Emoji';-inkscape-font-specification:'Noto Emoji';fill:#ffffff;stroke-width:0.298887"
+       xml:space="preserve"><tspan
+         id="tspan848-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.56437px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.298887"
+         y="114.90678"
+         x="54.17704">.xyz</tspan></text>
+  </g>
+</svg>
